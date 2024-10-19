@@ -1,2 +1,2 @@
 # Golang
-ig
+Projects done using the go programming language
